@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<monitors>
+  <monitor id="2147881090" use_icc="true" icc_path="%Public%\ProfileSelector\techless_G24F_D65_sRGB_F-S_XYZLUT+MTX.icm" calibrate_gamma="true" selected_gamma="2" custom_gamma="2.2" custom_percentage="60" target="0" disable_optimization="true" />
+</monitors>

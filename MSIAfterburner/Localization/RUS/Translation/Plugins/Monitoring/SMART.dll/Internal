@@ -1,0 +1,7 @@
+#src HDD temperature
+#dst Температура диска
+#end
+#src HDD%d temperature
+#dst Температура диска %d
+#end
+
